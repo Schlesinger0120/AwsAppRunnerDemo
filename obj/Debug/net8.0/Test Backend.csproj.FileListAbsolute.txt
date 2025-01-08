@@ -1,0 +1,36 @@
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\bin\Debug\net8.0\appsettings.json
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\bin\Debug\net8.0\Test Backend.staticwebassets.endpoints.json
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\bin\Debug\net8.0\Test Backend.exe
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\bin\Debug\net8.0\Test Backend.deps.json
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\bin\Debug\net8.0\Test Backend.runtimeconfig.json
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\bin\Debug\net8.0\Test Backend.dll
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\bin\Debug\net8.0\Test Backend.pdb
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\Test Backend.csproj.AssemblyReference.cache
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\Test Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\Test Backend.AssemblyInfoInputs.cache
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\Test Backend.AssemblyInfo.cs
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\Test Backend.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\Test Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\Test Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\scopedcss\bundle\Test Backend.styles.css
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\staticwebassets\msbuild.Test Backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\staticwebassets\msbuild.Test Backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\staticwebassets\msbuild.build.Test Backend.props
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Test Backend.props
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Test Backend.props
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\Test Bac.1992BAC4.Up2Date
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\Test Backend.dll
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\refint\Test Backend.dll
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\Test Backend.pdb
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\Test Backend.genruntimeconfig.cache
+C:\Users\sebastian.schlesinge\source\repos\Test Backend\Test Backend\obj\Debug\net8.0\ref\Test Backend.dll
